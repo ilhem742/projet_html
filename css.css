@@ -399,7 +399,7 @@ color:red
 .header{
 	width:100%;
 	height:600px;
-	background-image:url(image/css.jpg);
+	background-image:url(image/sara2.jpg);
 background-size:cover;
 
 	
@@ -416,7 +416,7 @@ background-size:cover;
 	 left:31%;
 	 color:white;
 	 font-family:comfortaa;
-	 font-size:50px;
+	 font-size:40px;
 	 border-bottom: solid red;
  }
  /*--about--*/
